@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* .form {
+  display: block;
+  justify-content: center;
+  justify-items: center;
+  margin: 10%;
+  background-color: blueviolet;
+  padding: 2%;
+  width: 50%
+} */
+
+.form{
+  background-color: rgb(174, 240, 69);
+  padding: 5%;
+  height: 30%;
+  width: 20%;
+  display:block;
+  justify-content: center;
+  margin-top: 5%;
+  margin-left: 35%;
+
+}
+
+.btn{
+  background-color: blueviolet;
+  color: blanchedalmond;
+  margin: 2%;
+}
+
+.input{
+  margin: 2%;
+  width: 100%;
+}
